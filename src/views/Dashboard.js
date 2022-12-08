@@ -211,7 +211,7 @@ const Dashboard = () => {
                     borderColor: 'rgba(220, 220, 220, 1)',
                     pointBackgroundColor: 'rgba(220, 220, 220, 1)',
                     pointBorderColor: '#fff',
-                    data: [60,75,50,77,80,74,48],
+                    data: [60000,75000,50000,77000,80000,74000,48000],
                   },
                   {
                     label: 'PnL',
@@ -219,7 +219,7 @@ const Dashboard = () => {
                     borderColor: 'rgba(151, 187, 205, 1)',
                     pointBackgroundColor: 'rgba(151, 187, 205, 1)',
                     pointBorderColor: '#fff',
-                    data: [50,45,37,22,15,30,29],
+                    data: [50000,45000,37000,22000,15000,30000,29000],
                   },
                 ],
               }}
